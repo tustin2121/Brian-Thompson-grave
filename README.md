@@ -6,10 +6,25 @@ A list of publications and writers who have moralized about the reaction to the 
 ### The New York Times
 - The Point: [Brian Thompson, Not Luigi Mangione, Is the Real Working-Class Hero](https://www.nytimes.com/live/2024/12/04/opinion/thepoint?smid=url-share#brian-thompson-luigi-mangione) - By Bret Stephens (Opinion)
 - [UnitedHealthcare C.E.O. Laid to Rest as Family Mourns Privately](https://www.nytimes.com/2024/12/10/nyregion/unitedhealthcare-brian-thompson-funeral.html) - By Amy Julia Harris and Ernesto Londoño
+- [Torrent of Hate for Health Insurance Industry Follows C.E.O.’s Killing](https://www.nytimes.com/2024/12/05/nyregion/social-media-insurance-industry-brian-thompson.html?unlocked_article_code=1.fE4.fm3v.Yzd8hJFtI4Xu&smid=nytcore-ios-share&referringSource=articleShare) - By Dionne Searcey and Madison Malone Kircher
+  - "But that did not stop social media commenters from leaping to conclusions and from showing a blatant lack of sympathy over the death of a man who was a husband and father of two children."
+- [](https://www.nytimes.com/2024/12/05/nyregion/brian-thompson-uhc-shooting-suspect-search.html?unlocked_article_code=1.fU4.K4hM.LQ0hrkxtouaV&smid=nytcore-ios-share&referringSource=articleShare) - By Ed Shanahan and Andy Newman
+  - "The shooting stunned a city heading into a festive holiday season, shocked an industry that regarded the victim highly, and prompted an ugly outpouring online among those who view health insurers as villains. By Thursday, amid the schadenfreude and grief, the shock had receded as investigators pursued their quarry methodically and New Yorkers were left to wonder when the shooter would be caught."
 
 ### The Washington Post
 - [Luigi Mangione ‘had so much to offer’ — now, he is a murder suspect](https://www.washingtonpost.com/nation/2024/12/10/luigi-mangione-life-school-family-back/?utm_source=twitter&utm_medium=social&utm_campaign=wp_main) - By Dan Diamond, Olivia George and Annie Gowen
   - "Luigi Mangione, a son of a prominent Baltimore family and an Ivy League graduate, had seemingly lost his way. Brian Thompson, a son of small-town Iowa who ascended to become CEO of UnitedHealthcare, appeared to be reaching new heights." - [Twitter post](https://x.com/washingtonpost/status/1866660192164692076)
+
+
+### National Review
+- [Luigi Mangione’s Copycat](https://www.nationalreview.com/corner/luigi-mangiones-copycat/) - By Haley Strack
+  - Again, use of the word "Copycat" for someone who only spoke words.
+  - "Mangione has attracted a cult following since he murdered a father of two in cold blood. Thompson’s murder has prompted a nationwide “discussion” on the state of the insurance industry — one laden with excuses and affirmations for disturbed individuals who believe sincerely that murdering high-powered executives is the only way to improve “the system.” Mangione has been described by a shockingly large amount of people as a handsome do-gooder, whose desire to expose the faults of the health care system makes him innocent. He was bound to have a copycat at some point, given that some social-media users have been justifying Mangione’s crime all week. Consider crazed ex-Washington Post journalist Taylor Lorenz, who said she derived joy from an innocent man’s murder." "Dominic’s post from last week, “Murdering CEOs Is Evil,” generated a terrifying amount of backlash, often from people like Lorenz who think Mangione is a hero for “starting the conversation” about corrupt insurance providers. Mangione might’ve started the conversation. Those who continue it by justifying his bloodlust encourage others to follow in his footsteps."
+- [Murdering CEOs Is Evil](https://www.nationalreview.com/corner/murdering-ceos-is-evil/) - By Dominic Pino
+  - "There appears to be some confusion about this online, so here it is plain and simple: Murdering corporate executives is evil."
+
+### Daily Mail
+- [First Luigi Mangione copycat is Florida woman who threatened health insurer with words 'he wrote on bullets'](https://www.dailymail.co.uk/news/article-14187499/Luigi-Mangione-copycat-Florida-woman-threatened-health-insurer.html) - By Bethan Sexton (note use of word "copycat" for a woman who did not kill anyone)
 
 ### New York Post
 - [Cover of Dec 10, 2024 Issue](https://x.com/schwarz/status/1866561874155782397)
