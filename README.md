@@ -8,7 +8,7 @@ A list of publications and writers who have moralized about the reaction to the 
 - [UnitedHealthcare C.E.O. Laid to Rest as Family Mourns Privately](https://www.nytimes.com/2024/12/10/nyregion/unitedhealthcare-brian-thompson-funeral.html) - By Amy Julia Harris and Ernesto Londoño
 - [Torrent of Hate for Health Insurance Industry Follows C.E.O.’s Killing](https://www.nytimes.com/2024/12/05/nyregion/social-media-insurance-industry-brian-thompson.html?unlocked_article_code=1.fE4.fm3v.Yzd8hJFtI4Xu&smid=nytcore-ios-share&referringSource=articleShare) - By Dionne Searcey and Madison Malone Kircher
   - "But that did not stop social media commenters from leaping to conclusions and from showing a blatant lack of sympathy over the death of a man who was a husband and father of two children."
-- [](https://www.nytimes.com/2024/12/05/nyregion/brian-thompson-uhc-shooting-suspect-search.html?unlocked_article_code=1.fU4.K4hM.LQ0hrkxtouaV&smid=nytcore-ios-share&referringSource=articleShare) - By Ed Shanahan and Andy Newman
+- [Images of Unmasked Suspect Emerge as the Police Track C.E.O.’s Killer](https://www.nytimes.com/2024/12/05/nyregion/brian-thompson-uhc-shooting-suspect-search.html?unlocked_article_code=1.fU4.K4hM.LQ0hrkxtouaV&smid=nytcore-ios-share&referringSource=articleShare) - By Ed Shanahan and Andy Newman
   - "The shooting stunned a city heading into a festive holiday season, shocked an industry that regarded the victim highly, and prompted an ugly outpouring online among those who view health insurers as villains. By Thursday, amid the schadenfreude and grief, the shock had receded as investigators pursued their quarry methodically and New Yorkers were left to wonder when the shooter would be caught."
 
 ### The Washington Post
@@ -20,6 +20,7 @@ A list of publications and writers who have moralized about the reaction to the 
 - [Luigi Mangione’s Copycat](https://www.nationalreview.com/corner/luigi-mangiones-copycat/) - By Haley Strack
   - Again, use of the word "Copycat" for someone who only spoke words.
   - "Mangione has attracted a cult following since he murdered a father of two in cold blood. Thompson’s murder has prompted a nationwide “discussion” on the state of the insurance industry — one laden with excuses and affirmations for disturbed individuals who believe sincerely that murdering high-powered executives is the only way to improve “the system.” Mangione has been described by a shockingly large amount of people as a handsome do-gooder, whose desire to expose the faults of the health care system makes him innocent. He was bound to have a copycat at some point, given that some social-media users have been justifying Mangione’s crime all week. Consider crazed ex-Washington Post journalist Taylor Lorenz, who said she derived joy from an innocent man’s murder." "Dominic’s post from last week, “Murdering CEOs Is Evil,” generated a terrifying amount of backlash, often from people like Lorenz who think Mangione is a hero for “starting the conversation” about corrupt insurance providers. Mangione might’ve started the conversation. Those who continue it by justifying his bloodlust encourage others to follow in his footsteps."
+    - Thompson was not innocent, not just for his company's high rate of denials, but also he was under active investigation for insider trading.
 - [Murdering CEOs Is Evil](https://www.nationalreview.com/corner/murdering-ceos-is-evil/) - By Dominic Pino
   - "There appears to be some confusion about this online, so here it is plain and simple: Murdering corporate executives is evil."
 
@@ -28,6 +29,9 @@ A list of publications and writers who have moralized about the reaction to the 
 
 ### New York Post
 - [Cover of Dec 10, 2024 Issue](https://x.com/schwarz/status/1866561874155782397)
+- [Ex-WaPo reporter Taylor Lorenz tells Piers Morgan she felt ‘joy’ over assassination of UnitedHealthcare CEO Brian Thompson: ‘Feels like justice’ ](https://nypost.com/2024/12/10/us-news/ex-wapo-reporter-taylor-lorenz-says-she-felt-joy-over-assassination-of-unitedhealthcare-ceo-brian-thompson-feels-like-justice/)
+  - "Former Washington Post reporter Taylor Lorenz said she felt “joy” over the killing of UnitedHealthcare CEO Brian Thompson — doubling down on her unsettling defense of the gruesome execution that left two children without a father."
+    - Thompson's children are adults, and are estranged from him.
 
 ### NBC News
 - [Suspect in UnitedHealthcare CEO slaying played video game killer, friend recalls](https://www.nbcnews.com/news/us-news/ironic-suspect-unitedhealthcare-slaying-played-video-game-killer-rcna183550) - By Alicia Victoria Lozano
