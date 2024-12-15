@@ -11,6 +11,7 @@ A list of publications and writers who have moralized about the reaction to the 
 - [Images of Unmasked Suspect Emerge as the Police Track C.E.O.’s Killer](https://www.nytimes.com/2024/12/05/nyregion/brian-thompson-uhc-shooting-suspect-search.html?unlocked_article_code=1.fU4.K4hM.LQ0hrkxtouaV&smid=nytcore-ios-share&referringSource=articleShare) - By Ed Shanahan and Andy Newman
   - "The shooting stunned a city heading into a festive holiday season, shocked an industry that regarded the victim highly, and prompted an ugly outpouring online among those who view health insurers as villains. By Thursday, amid the schadenfreude and grief, the shock had receded as investigators pursued their quarry methodically and New Yorkers were left to wonder when the shooter would be caught."
 
+
 ### The Washington Post
 - [Luigi Mangione ‘had so much to offer’ — now, he is a murder suspect](https://www.washingtonpost.com/nation/2024/12/10/luigi-mangione-life-school-family-back/?utm_source=twitter&utm_medium=social&utm_campaign=wp_main) - By Dan Diamond, Olivia George and Annie Gowen
   - "Luigi Mangione, a son of a prominent Baltimore family and an Ivy League graduate, had seemingly lost his way. Brian Thompson, a son of small-town Iowa who ascended to become CEO of UnitedHealthcare, appeared to be reaching new heights." - [Twitter post](https://x.com/washingtonpost/status/1866660192164692076)
@@ -24,8 +25,10 @@ A list of publications and writers who have moralized about the reaction to the 
 - [Murdering CEOs Is Evil](https://www.nationalreview.com/corner/murdering-ceos-is-evil/) - By Dominic Pino
   - "There appears to be some confusion about this online, so here it is plain and simple: Murdering corporate executives is evil."
 
+
 ### Daily Mail
 - [First Luigi Mangione copycat is Florida woman who threatened health insurer with words 'he wrote on bullets'](https://www.dailymail.co.uk/news/article-14187499/Luigi-Mangione-copycat-Florida-woman-threatened-health-insurer.html) - By Bethan Sexton (note use of word "copycat" for a woman who did not kill anyone)
+
 
 ### New York Post
 - [Cover of Dec 10, 2024 Issue](https://x.com/schwarz/status/1866561874155782397)
@@ -33,21 +36,32 @@ A list of publications and writers who have moralized about the reaction to the 
   - "Former Washington Post reporter Taylor Lorenz said she felt “joy” over the killing of UnitedHealthcare CEO Brian Thompson — doubling down on her unsettling defense of the gruesome execution that left two children without a father."
     - Thompson's children are adults, and are estranged from him.
 
+
+### The Atlantic
+- [The Health-Care System Isn’t Hopeless](https://www.theatlantic.com/ideas/archive/2024/12/united-healthcare-insurance-industry-change/680991/) - By Annie Lowrey
+  - "The benefits and perils of such proposals lie in their disruptiveness. On the one hand, Americans would never need to worry about losing coverage or have to negotiate with an insurance company again. Businesses would not need to manage their employees' health policies, or pay their share of working preiumums. The government would have  much greater capacity to hold down costs, negotiate drug prices, and invest in public health. On the other hand, Washington would recode one-sith of the American economy, putting dozens of insurers out of operation and perhaps wiping out their shareholders."
+    - God forbid we destroy the economy. Won't someone think of the shareholders?
+
 ### NBC News
 - [Suspect in UnitedHealthcare CEO slaying played video game killer, friend recalls](https://www.nbcnews.com/news/us-news/ironic-suspect-unitedhealthcare-slaying-played-video-game-killer-rcna183550) - By Alicia Victoria Lozano
   - "Luigi Mangione [...] once belonged to a group of Ivy League gamers who played assassins, a member of the group told NBC News. In the game, called 'Among Us,' [...]" (Doubles as moralizing about video games... again.)
 
+
 ### USA Today
 - [The UnitedHealthcare CEO was killed and many had little sympathy. Why?](https://www.usatoday.com/story/life/health-wellness/2024/12/05/unitedhealthcare-ceo-killed-meme/76794715007/) - By David Oliver
+
 
 ### CNN
 - [Fear in the C-Suite after UnitedHealthcare CEO gunned down ](https://www.cnn.com/2024/12/11/business/ceo-shooting-unitedhealth-security/index.html) - By Matt Egan 
   - "The stunning killing of UnitedHealthcare's CEO has shaken C-suites across the country" - Apple News Alert
 
+
 ### Fox News
 - "The instagram posts from nut bag people [...] and people celebrating this. This is a sickness, honestly, it's so disappointing, but I guess we shouldn't be surprised. [...] And up next, the other big news out of New York, Daniel Penny, a lot of people think he is a hero, and tonight he's Not Guilty." - [Laura Ingraham](https://x.com/Acyn/status/1866280962084237738)
 
+
 ---
+
 # People that don't get it
 
 ### Politicans
