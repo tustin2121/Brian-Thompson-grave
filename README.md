@@ -35,6 +35,9 @@ A list of publications and writers who have moralized about the reaction to the 
 - [Ex-WaPo reporter Taylor Lorenz tells Piers Morgan she felt ‘joy’ over assassination of UnitedHealthcare CEO Brian Thompson: ‘Feels like justice’ ](https://nypost.com/2024/12/10/us-news/ex-wapo-reporter-taylor-lorenz-says-she-felt-joy-over-assassination-of-unitedhealthcare-ceo-brian-thompson-feels-like-justice/)
   - "Former Washington Post reporter Taylor Lorenz said she felt “joy” over the killing of UnitedHealthcare CEO Brian Thompson — doubling down on her unsettling defense of the gruesome execution that left two children without a father."
     - Thompson's children are adults, and are estranged from him.
+- [I’m an Ivy League undergrad — here’s why my campus sides with Luigi Mangione](https://nypost.com/2024/12/19/opinion/maximillian-meyer-why-my-ivy-league-campus-is-rooting-for-luigi-mangione/)
+  - "Americans reacted with horror this week to a new poll that found young voters evenly divided on the righteousness of Luigi Mangione’s cold-blooded assassination of UnitedHealthcare CEO Brian Thompson" "This shocking response has been widespread among a vocal segment of the online left."
+  - Also, this guy's so pretentious, he thinks every sentence needs to be its own paragraph, because what he's saying is obviously that important.
 
 
 ### The Atlantic
